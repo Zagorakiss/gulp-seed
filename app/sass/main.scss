@@ -1,0 +1,12 @@
+body {
+	background-color: orange;
+	color: #fff;
+	padding: 10px;
+}
+
+
+@import '_part-1.scss';	
+
+.flex-block {
+	display: flex;
+}
